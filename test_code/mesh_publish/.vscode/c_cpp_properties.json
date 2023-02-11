@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/jeon/catkin_octo/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/jeon/catkin_ws/src/f1tenth_simulator/include/**",
+        "/home/jeon/catkin_octo/src/mesh_publish/include/**",
+        "/home/jeon/catkin_octo/src/octomap_builder/include/**",
+        "/home/jeon/catkin_octo/src/octomap_mapping/octomap_server/include/**",
+        "/home/jeon/catkin_ws/src/odom_maker/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
