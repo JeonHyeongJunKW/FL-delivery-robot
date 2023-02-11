@@ -20,7 +20,7 @@ rosrun mesh_publish demo_mesh_publish
 2. rviz나 unity를 통해서 정보를 확인합니다. 
 - publish type : pointcloud2
 - frame : map
-- topic name : /mesh_dat 
+- topic name : /mesh_data
 
 ### 사용결과
 : 3개의 점들이 관측된다.
